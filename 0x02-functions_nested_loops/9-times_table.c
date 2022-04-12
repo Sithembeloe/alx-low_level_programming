@@ -12,7 +12,7 @@ for (num = 0; num <= 9; num++)
 _putchar('.');
 _putchar(' ');
 
-pro = num * mult;
+prod = num * mult;
 
 if (prod <= 9)
 _putchar(' ');
