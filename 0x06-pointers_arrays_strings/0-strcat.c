@@ -2,14 +2,14 @@
 #include <stdio.h>
 
 /**
-* _strcat - function that concatenates
-*	two strings.
-*
-* @dest: pointer to destination input
-* @src: pointer to source input
-*
-* Return: pointer to resulting string @dest
-*/
+ * _strcat - function that concatenates
+ *	two strings.
+ *
+ * @dest: pointer to destination input
+ * @src: pointer to source input
+ *
+ * Return: pointer to resulting string @dest
+ */
 
 char *_strcat(char *dest, char *src)
 {
