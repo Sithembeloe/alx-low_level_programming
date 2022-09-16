@@ -1,1 +1,0 @@
-Conditional operaters in C
